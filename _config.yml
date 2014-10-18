@@ -1,27 +1,29 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highligher:       pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
-baseurl:          /
-author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+title:            Imran Shakir
+tagline:          Miscellaneous Ramblings
+description:      Miscellaneous Ramblings
 
-# Custom vars
-version:          1.0.0
+url:              http://ishakir.github.io
+shorturl:         ishakir.github.io
+baseurl:          /
+
+paginate:         5
+
+author:
+  name:           Imran Shakir
+
+version:          0.0.1
+
 github:
-  repo:           https://github.com/poole/poole
+  repo:           http://github.com/ishakir/ishakir.github.io
 
 pages_list:
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+comments: False
 ---
 
 ## Blog Posts
