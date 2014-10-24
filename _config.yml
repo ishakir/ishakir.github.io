@@ -14,7 +14,7 @@ url:              http://ishakir.github.io
 shorturl:         ishakir.github.io
 baseurl:          /
 
-paginate:         5
+paginate:         1
 
 author:
   name:           Imran Shakir
